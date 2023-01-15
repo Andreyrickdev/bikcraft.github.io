@@ -47,3 +47,7 @@
     height: 4px;
     background-color: currentColor;/*usar qualquer valor definido na cor do pai.*/
 }
+
+.link:hover {
+    color: var(--color-w);
+}
