@@ -25,3 +25,7 @@
     margin-bottom: 20px;
     display: block; /* para nosso span sofrer o margin-bottom é neceessário aplicar display block, por padrão é inline.*/
 }
+
+.tecnologia-conteudo > h2 {
+    margin-bottom: 32px;
+}
