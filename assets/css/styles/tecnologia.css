@@ -37,3 +37,8 @@
 .tecnologia-conteudo a {
     margin-bottom: 80px;
 }
+
+.tecnologia-vantagens {
+    display: flex;
+    gap: 40px;
+}
