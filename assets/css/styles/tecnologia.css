@@ -20,3 +20,8 @@
     padding-top: 160px;
     padding-bottom: 160px;
 }
+
+.tecnologia-conteudo > span {
+    margin-bottom: 20px;
+    display: block; /* para nosso span sofrer o margin-bottom é neceessário aplicar display block, por padrão é inline.*/
+}
