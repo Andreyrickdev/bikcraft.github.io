@@ -52,3 +52,32 @@
     width: 24px;
     margin-bottom: 8px;
 }
+
+@media (max-width: 800px) {
+    
+    .tecnologia-bg {
+        box-shadow: initial;
+    }
+    
+    .tecnologia {
+        grid-template-columns: 1fr;
+    }
+
+    .tecnologia-conteudo {
+        padding: 60px 0;
+    }
+
+    .tecnologia-imagem {
+        display: none;
+    }
+
+    .tecnologia a {
+        margin-bottom: 60px;
+    }
+}
+
+@media (max-width: 600px) {
+    .tecnologia-vantagens {
+        flex-direction: column;
+    }
+}
