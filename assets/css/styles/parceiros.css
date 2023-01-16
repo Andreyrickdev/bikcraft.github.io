@@ -1,0 +1,16 @@
+.parceiros {
+    padding-top: 60px;
+    padding-bottom: 120px;
+}
+
+.parceiros h2 {
+    margin-bottom: 60px;
+}
+
+.parceiros ul {
+    max-width: 1400px;/*depois que crescer acima de 1400 ele vai começar centralizar*/
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin:0 auto;
+    padding: 0 20px;
+}
