@@ -46,16 +46,17 @@
     font-weight: 500;
 }
 
-.font-bold {
-    font-weight: 600;
-}
-
 .font-po-pm, .font-bold {
     font-size: 1.125rem;
     line-height: 1.35;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
 }
+
+.font-bold {
+    font-weight: 600;
+}
+
 
 .font-ro-p {
     font-size: 1rem;
