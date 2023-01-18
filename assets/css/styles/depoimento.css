@@ -37,3 +37,7 @@
     left: -50px;
     top: -20px;
 }
+
+.depoimento p::after {
+    content:"”";
+}
