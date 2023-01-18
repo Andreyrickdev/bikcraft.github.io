@@ -23,3 +23,10 @@
     margin-bottom: 32px;
     max-width: 32ch;
 }
+
+.depoimento p::before {
+    content: "“";
+    font-size: 5rem;
+    color: var(--color-p2);
+    position: absolute;
+}
