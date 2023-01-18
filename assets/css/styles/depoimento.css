@@ -10,3 +10,8 @@
     object-fit: cover;
     border-radius: initial;
 }
+
+.depoimento-conteudo {
+    padding: 40px 40px 80px 80px;
+    align-self: end;
+}
