@@ -28,6 +28,8 @@
 
 .seguros-item span {
     grid-column: 2;
+    display: block;
+    text-align: right;
 }
 
 .seguros-item ul {
