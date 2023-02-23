@@ -41,6 +41,7 @@
 .seguros-item li {
     display: flex;
     align-items: center;
+    position: relative;
 }
 
 .seguros-item li + li {
