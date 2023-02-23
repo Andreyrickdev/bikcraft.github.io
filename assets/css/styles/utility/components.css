@@ -28,6 +28,10 @@
     color: var(--color-c02)
 }
 
+.button.secondary:hover {
+    background: var(--color-c09);
+}
+
 /*VOU CRIAR UM BOTÃO SECUNDARIO ------------*/
 
 @media (max-width: 600px) {
