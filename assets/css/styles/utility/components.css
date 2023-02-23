@@ -18,7 +18,7 @@
     line-height: 1.33;
     font-family: "Poppins";
     font-weight: 600;
-    max-width: max-content;     /*tamanho maximo do conteudo dele*/
+    max-width: max-content;     /*tamanho maximo do conteudo dele.*/
 }
 
 .button:hover {
