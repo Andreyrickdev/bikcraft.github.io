@@ -37,6 +37,12 @@
     margin-bottom: 32px;
 }
                         /*só vai adicionar em LI seguido de uma LI*/
+
+.seguros-item li {
+    display: flex;
+    align-items: center;
+}
+
 .seguros-item li + li {
     margin-top: 20px;
 }
