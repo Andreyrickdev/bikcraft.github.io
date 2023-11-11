@@ -71,4 +71,8 @@
     .font-po-4rem-bold {
         font-size: 2rem;
     }
+
+    .font-po-2rem-bold, .font-ro-2rem {
+        font-size: 1.5rem;
+    }
 }
