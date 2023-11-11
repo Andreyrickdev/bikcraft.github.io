@@ -37,3 +37,13 @@
 .footer a:hover {
     color: var(--color-w);
 }
+
+@media (max-width: 800px) {
+    .footer {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .footer > img {
+        display: none;
+    }
+}
