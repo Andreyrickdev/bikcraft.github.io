@@ -20,3 +20,8 @@
 .footer li {
     margin-bottom: 16px;
 }
+
+.footer-redes {
+    display: flex;
+    gap: 32px;
+}
