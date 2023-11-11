@@ -33,3 +33,7 @@
     display: flex;
     gap: 32px;
 }
+
+.footer a:hover {
+    color: var(--color-w);
+}
