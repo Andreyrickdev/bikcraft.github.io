@@ -64,3 +64,10 @@
 .link:hover {
     color: var(--color-w);
 }
+
+/* titulos internos */
+
+.titulo-bg {
+    padding: 60px 0px;
+    background-color: var(--color-c11);
+}
