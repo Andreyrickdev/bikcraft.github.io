@@ -61,8 +61,8 @@
         font-size: 3rem;
     }
 
-    .font-ro-18px {
-        font-size: 18px;
+    .font-ro-1ponto5rem, .font-L-bold-U {
+        font-size: 1.125rem;
     }
 
 }
