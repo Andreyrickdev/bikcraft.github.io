@@ -51,5 +51,6 @@
 @media (max-width: 600px) {
     .footer {
         grid-template-columns: 1fr;
+        gap: 60px;
     }
 }
