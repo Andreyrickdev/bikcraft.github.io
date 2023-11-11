@@ -8,5 +8,6 @@
 }
 
 .termos p {
+    max-width: 75ch;
     margin-bottom: 24px;
 }
