@@ -21,6 +21,14 @@
     margin-bottom: 16px;
 }
 
+.footer-contato li:nth-child(even):after {
+    content: '';
+    display: block;
+    max-width: 360px;
+    height: 2px;
+    background-color: var(--color-c11);
+}
+
 .footer-redes {
     display: flex;
     gap: 32px;
