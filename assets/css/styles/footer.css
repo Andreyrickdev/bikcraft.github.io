@@ -47,3 +47,9 @@
         display: none;
     }
 }
+
+@media (max-width: 600px) {
+    .footer {
+        grid-template-columns: 1fr;
+    }
+}
