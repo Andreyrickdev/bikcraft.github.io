@@ -71,3 +71,7 @@
     padding: 60px 0px;
     background-color: var(--color-c11);
 }
+
+.titulo p {
+    margin-bottom: 4px;
+}
