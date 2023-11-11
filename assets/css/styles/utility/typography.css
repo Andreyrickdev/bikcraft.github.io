@@ -1,18 +1,18 @@
-.font-po-gg-bold {
+.font-po-4rem-bold {
     font-size: 4rem;
     line-height: 1.125;
     font-family: "Poppins", sans-serif;         /*GRANDE*/
     font-weight: 600;
 }
 
-.font-ro-g {
+.font-ro-2rem {
     font-size: 2rem;
     line-height: 1.25;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
 }
 
-.font-po-gm-bold {
+.font-po-2rem-bold {
     font-size: 2rem;
     line-height: 1.25;
     font-family: "Poppins", sans-serif;
@@ -25,28 +25,28 @@
     text-transform: uppercase;
 }
 
-.font-ro-m, .font-L-bold-U {
+.font-ro-1ponto5rem, .font-L-bold-U {
     font-size: 1.5rem;
     line-height: 1.5;
     font-family: "Roboto",sans-serif;                  /*PARAGRAFO*/
     font-weight: 400;
 }
 
-.font-po-m {
+.font-po-1ponto5rem {
     font-size: 1.5rem;
     line-height: 1.5;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
 }
 
-.font-ro-pm {
+.font-ro-1ponto125rem {
     font-size: 1.125rem;
     line-height: 1.35;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
 }
 
-.font-po-pm, .font-bold {
+.font-po-1ponto125rem, .font-bold {
     font-size: 1.125rem;
     line-height: 1.35;
     font-family: "Poppins", sans-serif;
@@ -58,28 +58,28 @@
 }
 
 
-.font-ro-p {
+.font-ro-1rem {
     font-size: 1rem;
     line-height: 1.5;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 }
 
-.font-po-p {
+.font-po-1rem {
     font-size: 1rem;
     line-height: 1.5;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
 }
 
-.font-ro-pp {
+.font-ro-0ponto875rem {
     font-size: 0.875rem;
     line-height: 1.43;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
 }
 
-.font-po-ppp {
+.font-po-0ponto75rem {
     font-size: 0.75rem;
     line-height: 1.35;
     font-family: "Poppins", sans-serif;
@@ -91,18 +91,18 @@
 }
 
 @media (max-width: 1200px) {
-    .font-po-gg-bold {
+    .font-po-3rem-bold {
         font-size: 3rem;
     }
 
-    .font-ro-m {
+    .font-ro-18px {
         font-size: 18px;
     }
 
 }
 
 @media (max-width: 800px) {
-    .font-po-gg-bold {
+    .font-po-2rem-bold {
         font-size: 2rem;
     }
 }
