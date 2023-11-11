@@ -1,12 +1,12 @@
-@import './styles/global.css';
-@import './styles/header.css';
-@import './styles/introducao.css';
-@import './styles/list.css';
-@import './styles/tecnologia.css';
-@import './styles/parceiros.css';
-@import './styles/depoimento.css';
-@import './styles/seguros.css';
-@import './styles/footer.css';
+@import './styles/global/global.css';
+@import './styles/header/header.css';
+@import './styles/introducao/introducao.css';
+@import './styles/list/list.css';
+@import './styles/tecnologia/tecnologia.css';
+@import './styles/parceiros/parceiros.css';
+@import './styles/depoimento/depoimento.css';
+@import './styles/seguros/seguros.css';
+@import './styles/footer/footer.css';
 
 /* utilitys*/
 
